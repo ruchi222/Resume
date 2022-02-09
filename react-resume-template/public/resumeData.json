@@ -14,48 +14,48 @@
       "state": "Ontario",
       "zip": "N2P0J6"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://socialflyweb.com",
+    "resumedownload": "https://resume.creddle.io",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://business.facebook.com/socialflywebsolutions/",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com/socialflyweb2",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/ruchika-gosain/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/socialflyweb2/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/ruchi222",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Ability to work in a team structure and to make decisions and solve problems",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Punjab Technical University",
+        "degree": "Masters in Computer Applications",
+        "graduated": "April 2014",
+        "description": "I learned how to consider and care for others, and also taught my responsiblity, empathy, attention to detail and other abilities, they may represent the most important thing you actually learned."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
+        "school": "Guru Nanak Dev University",
+        "degree": "Bachelor of Computer Applications",
         "graduated": "March 2003",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
@@ -96,8 +96,8 @@
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "SEO",
+        "level": "90%"
       },
       {
         "name": "MongoDB",
