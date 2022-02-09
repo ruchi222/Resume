@@ -56,22 +56,28 @@
       {
         "school": "Guru Nanak Dev University",
         "degree": "Bachelor of Computer Applications",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "graduated": "April 2011",
+        "description": "I learned how to consider and care for others, and also taught my responsiblity, empathy, attention to detail and other abilities, they may represent the most important thing you actually learned."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Lighthouse Labs",
+        "title": "Web Development Apprentice Mentor",
+        "years": "December 2021 - Present",
+        "description": "Walk students through issues and help them develop problem-solving skills with a range of different technologies, languages, and frameworks."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "I-next Solutions",
+        "title": "Digital Marketing Assistant",
+        "years": "June 2015 - August 2019",
+        "description": "My role at I-next solutions involved utilizing ad services on LinkedIn, Pinterest, Twitter, Facebook, and Instagram to build engagement and maintain relationships with customers, showcasing products and services client was offering."
+      },
+      {
+        "company": "The Cambridge Physiotherapy",
+        "title": "Digital Marketing Coordinator",
+        "years": "November 2020 - June 2021",
+        "description": "Optimizing website structure and content for search engines (SEO) and using paid online advertising (SEM) to drive relevant traffic to their website, Google business and  Increased business by 50% and customer engagement through paid advertising (Facebook Marketplace, Google Business Page, Google Ads)"
       }
     ],
     "skills": [
