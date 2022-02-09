@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Ruchika Gosain",
+    "occupation": "Appereintce Mentor",
+    "description": "I have done Masters of Computer Applications. I have 5 years' experience in Digital Marketing. Recently, I have graduated as a Full Stack Web Developer from Lighthouse Labs. Recently, I Started as a Part-time Job in lighthouse labs as a Mentor Assistance.  In here, I am helping students for the queries and solving problems regarding the code issues and also provide the guidance and advice to the students. ",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "I am passionate about eager to learn new things, promote their website, developing and designing. My Soft skills are Teamwork, Interpersonal Skills and Creativity because I love to communicate with others and actively listen. Lastly, Marketing is the very creative profession such as social media, advertising, and much more. My Tech Skills are Computer Programming, Design the websites and Digital Marketing because I have developed many websites and also I love to do website promotions. I quickly adapt the new ideas. I love hiking and explore for the different areas. Now, I am eager to meet the new challenges.",
+    "contactmessage": "Hi, I am looking for a new opportunties as a Front-End Developer.",
+    "email": "sharma.ruchika34@gmail.com",
+    "phone": "519-590-2901",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "Doon South Area",
+      "city": "Kitchener",
+      "state": "Ontario",
+      "zip": "N2P0J6"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
