@@ -120,16 +120,16 @@
         "url": "https://github.com/ruchi222/Relax_Melodies"
       },
       {
-        "title": "Relax Melodies",
-        "category": "Users can book online Yoga Sessions and subscribe for upcoming events and offers.",
-        "image": "Relax.png",
-        "url": "https://github.com/ruchi222/Relax_Melodies"
+        "title": "Food Pickup Ordering",
+        "category": "This is a full stack website app for a fake take-out Bakery Shop, named Royal Bakery",
+        "image": "bakery.png",
+        "url": "https://github.com/ruchi222/Food-order-app"
       },
       {
-        "title": "Relax Melodies",
-        "category": "Users can book online Yoga Sessions and subscribe for upcoming events and offers.",
-        "image": "Relax.png",
-        "url": "https://github.com/ruchi222/Relax_Melodies"
+        "title": "Jungle Rails",
+        "category": "Jungle was built with users in mind from the main catalog to each products detail page. Some special features of Jungle is its email confirmation capabilities, and authentication processes.",
+        "image": "jungle.png",
+        "url": "https://github.com/ruchi222/jungle-rails"
       }
     ]
   }
