@@ -130,6 +130,12 @@
         "category": "Jungle was built with users in mind from the main catalog to each products detail page. Some special features of Jungle is its email confirmation capabilities, and authentication processes.",
         "image": "jungle.png",
         "url": "https://github.com/ruchi222/jungle-rails"
+      },
+      {
+        "title": "Scheduler",
+        "category": "This is a single-page app built on React.js that allows users to book, edit or cancel interviews for each day of the week (Monday to Friday).",
+        "image": "scheduler.png",
+        "url": "https://github.com/ruchi222/scheduler"
       }
     ]
   }
