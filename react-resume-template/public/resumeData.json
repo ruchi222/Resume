@@ -142,6 +142,12 @@
         "category": "This is a single-page app built on React.js that allows users to book, edit or cancel interviews for each day of the week (Monday to Friday).",
         "image": "scheduler.png",
         "url": "https://github.com/ruchi222/scheduler"
+      },
+      {
+        "title": "Scheduler",
+        "category": "This is a single-page app built on React.js that allows users to book, edit or cancel interviews for each day of the week (Monday to Friday).",
+        "image": "scheduler.png",
+        "url": "https://github.com/ruchi222/scheduler"
       }
     ]
   }
