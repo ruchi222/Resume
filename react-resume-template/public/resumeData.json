@@ -5,7 +5,7 @@
     "description": "I have done Masters of Computer Applications. I have 5 years' experience in Digital Marketing. Recently, I have graduated as a Full Stack Web Developer from Lighthouse Labs. Recently, I Started as a Part-time Job in lighthouse labs as a Mentor Assistance.  In here, I am helping students for the queries and solving problems regarding the code issues and also provide the guidance and advice to the students. ",
     "image": "profilepic.jpg",
     "bio": "I am passionate about eager to learn new things, promote their website, developing and designing. My Soft skills are Teamwork, Interpersonal Skills and Creativity because I love to communicate with others and actively listen. Lastly, Marketing is the very creative profession such as social media, advertising, and much more. My Tech Skills are Computer Programming, Design the websites and Digital Marketing because I have developed many websites and also I love to do website promotions. I quickly adapt the new ideas. I love hiking and explore for the different areas. Now, I am eager to meet the new challenges.",
-    "contactmessage": "Hi, I am looking for a new opportunties as a Front-End Developer.",
+    "contactmessage": "Hi, I am looking for a new opportunties as a Junior Front-End Developer.",
     "email": "sharma.ruchika34@gmail.com",
     "phone": "519-590-2901",
     "address": {
@@ -47,6 +47,12 @@
   "resume": {
     "skillmessage": "Ability to work in a team structure and to make decisions and solve problems",
     "education": [
+      {
+        "school": "Lighthouse Labs",
+        "degree": "Web Development Bootcamp",
+        "graduated": "October 2021",
+        "description": "It was great an experience overall and I learned a lot of new things and techniques. I have made some projects in different languages."
+      },
       {
         "school": "Punjab Technical University",
         "degree": "Masters in Computer Applications",
@@ -138,28 +144,16 @@
         "url": "https://github.com/ruchi222/scheduler"
       },
       {
-        "title": "Scheduler",
-        "category": "This is a single-page app built on React.js that allows users to book, edit or cancel interviews for each day of the week (Monday to Friday).",
-        "image": "scheduler.png",
-        "url": "https://github.com/ruchi222/scheduler"
+        "title": "Tinyapp",
+        "category": "TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly).",
+        "image": "tinyapp.png",
+        "url": "https://github.com/ruchi222/tinyapp_"
       },
       {
-        "title": "Scheduler",
-        "category": "This is a single-page app built on React.js that allows users to book, edit or cancel interviews for each day of the week (Monday to Friday).",
-        "image": "scheduler.png",
-        "url": "https://github.com/ruchi222/scheduler"
-      },
-      {
-        "title": "Scheduler",
-        "category": "This is a single-page app built on React.js that allows users to book, edit or cancel interviews for each day of the week (Monday to Friday).",
-        "image": "scheduler.png",
-        "url": "https://github.com/ruchi222/scheduler"
-      },
-      {
-        "title": "Jungle Rails",
-        "category": "Jungle was built with users in mind from the main catalog to each products detail page. Some special features of Jungle is its email confirmation capabilities, and authentication processes.",
-        "image": "jungle.png",
-        "url": "https://github.com/ruchi222/jungle-rails"
+        "title": "Tweeter",
+        "category": "Tweeter is a simple, single-page Twitter clone.",
+        "image": "tweeter.png",
+        "url": "https://github.com/ruchi222/tweeter"
       }
     ]
   }
